@@ -1,0 +1,6 @@
+[
+  { "name": "1-site-a-combat.jpg", "query": "?shot=combat&seed=7" },
+  { "name": "2-mid-smoke-duel.jpg", "query": "?shot=mid&seed=11" },
+  { "name": "3-buy-armory.jpg", "query": "?shot=buy&seed=3" },
+  { "name": "4-plant-retake.jpg", "query": "?shot=plant&seed=19" }
+]
